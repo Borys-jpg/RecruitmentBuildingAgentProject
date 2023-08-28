@@ -80,9 +80,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# LGUI generated content
-LGUI_Saved_Data.json
-
 # Rider
 Plugins/Developer/*
 .idea*
